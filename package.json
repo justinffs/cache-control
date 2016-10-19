@@ -35,7 +35,7 @@
     "cache-header": "^1.0.0",
     "fast-url-parser": "^1.0.6-0",
     "glob-slasher": "^1.0.1",
-    "globject": "^1.0.0",
+    "globject": "^1.0.3",
     "lodash.isnumber": "^2.4.1",
     "on-headers": "^1.0.0",
     "regular": "^0.1.6"
